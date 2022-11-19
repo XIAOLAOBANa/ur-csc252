@@ -1,0 +1,2 @@
+./samples/sub5 4
+NORMAL
